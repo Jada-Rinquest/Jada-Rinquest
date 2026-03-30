@@ -42,8 +42,9 @@ I am a strong and motivated individual who enjoys working with others and being 
 </div>
 
 <h2 align="left">Links</h2>
-<p align="left">
-Link to my mock interview: https://github.com/Jada-Rinquest/Jada-Rinquest.github.io/blob/main/CV/mock%20interview.mp4
-Link to my CV:https://github.com/Jada-Rinquest/Jada-Rinquest.github.io/blob/main/CV/JADA%20RINQUEST%20word%20cv%20(1).pdf  
-</p>  
+
+<p align="left">Link to my mock interview: https://github.com/Jada-Rinquest/Jada-Rinquest.github.io/blob/main/CV/mock%20interview.mp4  </p> 
+<p align="left">Link to my CV:https://github.com/Jada-Rinquest/Jada-Rinquest.github.io/blob/main/CV/JADA%20RINQUEST%20word%20cv%20(1).pdf </p>  
+
+
 ###
